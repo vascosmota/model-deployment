@@ -1,5 +1,5 @@
 install:
-	pip install model-deployment-cc-approval
+	pip install -e .
 
 install-dev:
 	pip install -e .[dev]
