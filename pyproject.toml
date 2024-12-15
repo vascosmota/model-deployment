@@ -18,4 +18,8 @@ dev = [
     "lightgbm",
     "imblearn",
     "xgboost",
+    "optuna",
 ]
+
+[tool.setuptools]
+packages = []
